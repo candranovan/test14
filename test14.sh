@@ -14,4 +14,4 @@ echo "╔══════════════════╗
 ║Creator  : Candra-Oi                                ║
 ║Youtube : CANDRA-NM                          ║  
 ║Github    : github.com/candranovan     ║
-╚══════════════════╝")
+╚══════════════════╝"
